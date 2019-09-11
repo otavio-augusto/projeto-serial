@@ -1,0 +1,7 @@
+C:\Users\otavio\source\repos\serial\serial\bin\Debug\serial.exe.config
+C:\Users\otavio\source\repos\serial\serial\bin\Debug\serial.exe
+C:\Users\otavio\source\repos\serial\serial\bin\Debug\serial.pdb
+C:\Users\otavio\source\repos\serial\serial\obj\Debug\serial.csprojAssemblyReference.cache
+C:\Users\otavio\source\repos\serial\serial\obj\Debug\serial.csproj.CoreCompileInputs.cache
+C:\Users\otavio\source\repos\serial\serial\obj\Debug\serial.exe
+C:\Users\otavio\source\repos\serial\serial\obj\Debug\serial.pdb
